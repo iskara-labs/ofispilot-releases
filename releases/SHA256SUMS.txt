@@ -1,0 +1,2 @@
+d319e47449f94824df9993638c0f594f46d966705028c0e9a7703129c7e43a25  OfisPilotSetup.exe
+040a6efba129b59752a9a67feac6da40e6bb75c71cc9fde5eff966c98ef2aa0a  OfisPilot.Portable.1.3.0.exe
