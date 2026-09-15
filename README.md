@@ -10,14 +10,14 @@ is not published here.
 
 | | |
 |---|---|
-| Version | **1.3.0** |
+| Version | **1.4.0** |
 | Channel | **RC** (Release Candidate) |
 | Platform | Windows 10/11 · x64 |
 | Signed | **No** — see the warning below |
 
 Download from the [Releases](../../releases) page.
 
-> ⚠️ **Release candidate — for internal pilot use.**
+> ⚠️ **Release candidate.**
 > The installer is not yet code-signed, so Windows SmartScreen will show an
 > "unrecognised publisher" warning. Public commercial distribution opens once
 > signing is complete.
@@ -40,7 +40,7 @@ Compare the result with the matching line in `SHA256SUMS.txt`.
 ```json
 {
   "product": "OfisPilot",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "channel": "RC",
   "signed": false,
   "public_commercial_ready": false,
