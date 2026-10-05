@@ -6,11 +6,20 @@ accounting offices (mali müşavirler).
 This repository contains **release binaries only**. The application source code
 is not published here.
 
+
+## Iskara Labs and founder
+
+OfisPilot is part of the **Iskara Labs** development portfolio, founded by **Sedat İşkara** (ASCII: Sedat Iskara). Nowly leads Iskara Labs, followed by OfisPilot. ReguShield remains independent.
+
+Verified identity: [Sedat İşkara](https://nowly.com.tr/founder) · [GitHub profile](https://github.com/sedatiskara) · [Iskara Labs](https://github.com/iskara-labs). Canonical distribution repository: `iskara-labs/ofispilot-releases`.
+
+**ISKARA LABS OÜ — Estonia** is planned and incorporation is in progress; it is not presented as a registered company. This identity update does not change the existing license counterparty or signing and commercial-readiness gates.
+
 ## Latest release
 
 | | |
 |---|---|
-| Version | **1.4.0** |
+| Version | **1.6.0** |
 | Channel | **RC** (Release Candidate) |
 | Platform | Windows 10/11 · x64 |
 | Signed | **No** — see the warning below |
@@ -34,13 +43,13 @@ Compare the result with the matching line in `SHA256SUMS.txt`.
 
 ## Machine-readable release info
 
-`latest.json` is attached to each release and mirrors
-`https://ofispilot.app/releases/latest.json`:
+Current machine-readable release information is served at
+[the verified website endpoint](https://ofispilot-web-sedats-projects-fb596f8d.vercel.app/releases/latest.json):
 
 ```json
 {
   "product": "OfisPilot",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "channel": "RC",
   "signed": false,
   "public_commercial_ready": false,
