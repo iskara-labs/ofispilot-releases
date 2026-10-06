@@ -9,9 +9,9 @@ is not published here.
 
 ## Iskara Labs and founder
 
-OfisPilot is part of the **Iskara Labs** development portfolio, founded by **Sedat İşkara** (ASCII: Sedat Iskara). Nowly leads Iskara Labs, followed by OfisPilot. ReguShield remains independent.
+OfisPilot is part of the **Iskara Labs** development portfolio, founded by **Sedat İşkara** (ASCII: Sedat Iskara).
 
-Verified identity: [Sedat İşkara](https://nowly.com.tr/founder) · [GitHub profile](https://github.com/sedatiskara) · [Iskara Labs](https://github.com/iskara-labs). Canonical distribution repository: `iskara-labs/ofispilot-releases`.
+Verified identity: [Sedat İşkara](https://iskaralabs.co/founder) · [Iskara Labs](https://iskaralabs.co). Canonical distribution repository: `iskara-labs/ofispilot-releases`.
 
 **ISKARA LABS OÜ — Estonia** is planned and incorporation is in progress; it is not presented as a registered company. This identity update does not change the existing license counterparty or signing and commercial-readiness gates.
 
@@ -44,7 +44,7 @@ Compare the result with the matching line in `SHA256SUMS.txt`.
 ## Machine-readable release info
 
 Current machine-readable release information is served at
-[the verified website endpoint](https://ofispilot-web-sedats-projects-fb596f8d.vercel.app/releases/latest.json):
+[the verified website endpoint](https://ofispilot.com.tr/releases/latest.json):
 
 ```json
 {
@@ -73,4 +73,4 @@ distribution.
 
 ## Support
 
-destek@ofispilot.app
+destek@ofispilot.com.tr
