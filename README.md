@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ofispilot.com.tr/brand/logo-horizontal-color.svg">
+  <img src="https://ofispilot.com.tr/brand/logo-horizontal-light.svg" alt="OfisPilot" width="420">
+</picture>
+
 # OfisPilot — Releases
 
 Public distribution channel for **OfisPilot**, the Practice OS for Turkish
